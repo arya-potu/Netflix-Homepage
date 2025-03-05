@@ -5,14 +5,19 @@ A responsive clone of the Netflix homepage built using HTML and CSS, designed to
 Key Features:
 
 1.Responsive Design: Created a mobile-first, fluid layout using Flexbox and CSS Grid to ensure seamless adaptation across all screen sizes.
+
 2.Layout Replication: Mimicked Netflix's header, navigation, and content display sections for a familiar user interface.
+
 3.Styling: Utilized modern CSS techniques like media queries to ensure responsiveness and consistency.
+
 4.Visual Design: Focused on accurate color schemes, font styles, and button placements to match the Netflix brand.
 
 Technologies:
 
 *HTML/CSS: Structure, styling, and layout.
+
 *Flexbox & CSS Grid: For responsive design and layout alignment.
+
 *Media Queries: To ensure a fully responsive experience across devices.
 
 Possible Add-Ons:
