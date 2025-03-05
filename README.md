@@ -1,5 +1,7 @@
 Netflix-HomePage Clone
+
 Jan 2025 - Present
+
 A responsive clone of the Netflix homepage built using HTML and CSS, designed to replicate its layout and functionality for an immersive user experience.
 
 Key Features:
